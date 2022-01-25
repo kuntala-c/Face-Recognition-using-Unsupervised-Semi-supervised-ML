@@ -18,3 +18,4 @@ Below tasks are covered in the project:
 * Determine the optimal number of clusters and plot the cluster of faces
 * Take the test data and creat labels for the test data using the semi-supervised method
 * Have a validation dataset to verify the created labels are close to the validation test labels before propagating them into the test set
+* `Final Result: Accuracy increased from 73% to 80% by propagating labels only to the instances that are really close to the centroid`
