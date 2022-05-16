@@ -1,5 +1,5 @@
 # Face-Recognition-using-Unsupervised-Semi-supervised-ML
-Face Recognition Algorithm using Unsupervised and Semi-supervised Techniques
+Face Recognition Algorithm using Unsupervised and Semi-Supervised Techniques
 
 The Olivetti faces dataset:
 --------------------------
